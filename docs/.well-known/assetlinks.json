@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mods.downloader.km",
+      "sha256_cert_fingerprints": [
+        "4E:DA:96:45:89:F4:B9:52:D3:61:FC:FF:8F:6C:10:3C:98:66:8D:46:E0:B4:05:CC:F4:91:AD:E7:7F:13:38:A7"
+      ]
+    }
+  }
+]
